@@ -1,0 +1,10 @@
+﻿{
+    "profiles": {
+      "ExploreAPP (Package)": {
+        "commandName": "MsixPackage"
+      },
+      "ExploreAPP (Unpackaged)": {
+        "commandName": "Project"
+      }
+    }
+}

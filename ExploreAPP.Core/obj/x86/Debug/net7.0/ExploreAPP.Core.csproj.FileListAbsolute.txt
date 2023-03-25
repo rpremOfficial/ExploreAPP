@@ -1,0 +1,12 @@
+C:\Users\premr\source\repos\ExploreAPP\ExploreAPP.Core\bin\x86\Debug\net7.0\ExploreAPP.Core.deps.json
+C:\Users\premr\source\repos\ExploreAPP\ExploreAPP.Core\bin\x86\Debug\net7.0\ExploreAPP.Core.dll
+C:\Users\premr\source\repos\ExploreAPP\ExploreAPP.Core\bin\x86\Debug\net7.0\ExploreAPP.Core.pdb
+C:\Users\premr\source\repos\ExploreAPP\ExploreAPP.Core\obj\x86\Debug\net7.0\ExploreAPP.Core.csproj.AssemblyReference.cache
+C:\Users\premr\source\repos\ExploreAPP\ExploreAPP.Core\obj\x86\Debug\net7.0\ExploreAPP.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\premr\source\repos\ExploreAPP\ExploreAPP.Core\obj\x86\Debug\net7.0\ExploreAPP.Core.AssemblyInfoInputs.cache
+C:\Users\premr\source\repos\ExploreAPP\ExploreAPP.Core\obj\x86\Debug\net7.0\ExploreAPP.Core.AssemblyInfo.cs
+C:\Users\premr\source\repos\ExploreAPP\ExploreAPP.Core\obj\x86\Debug\net7.0\ExploreAPP.Core.csproj.CoreCompileInputs.cache
+C:\Users\premr\source\repos\ExploreAPP\ExploreAPP.Core\obj\x86\Debug\net7.0\ExploreAPP.Core.dll
+C:\Users\premr\source\repos\ExploreAPP\ExploreAPP.Core\obj\x86\Debug\net7.0\refint\ExploreAPP.Core.dll
+C:\Users\premr\source\repos\ExploreAPP\ExploreAPP.Core\obj\x86\Debug\net7.0\ExploreAPP.Core.pdb
+C:\Users\premr\source\repos\ExploreAPP\ExploreAPP.Core\obj\x86\Debug\net7.0\ref\ExploreAPP.Core.dll
