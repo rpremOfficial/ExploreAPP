@@ -7,7 +7,7 @@
     mc:Ignorable="d">
 
     <Grid x:Name="ContentArea">
-        <TextBlock Text="Welcome" HorizontalAlignment="Left" VerticalAlignment="Top" FontSize="24"/>
+        <TextBlock Text="Welcome to the ExploreAPP" HorizontalAlignment="Left" VerticalAlignment="Top" FontSize="24"/>
         <PersonPicture ProfilePicture="https://docs.microsoft.com/windows/uwp/contacts-and-calendar/images/shoulder-tap-static-payload.png" HorizontalAlignment="Right" VerticalAlignment="Top" Height="60px" Width="60px"/>
         
         <TextBox Header="Write your content" PlaceholderText="Name" Height="420px" Margin="10,10,0,0"/>
